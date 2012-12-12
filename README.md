@@ -5,7 +5,7 @@ What: An impromptu mid-workday meeting session for nerds and other startups in C
 
 Who: Hosted by VividCortex
 
-Next Event: Thursday, December 12, 2012 from 1:30PM (sharp) to 2:30PM.
+Next Event: Thursday, December 13, 2012 from 1:30PM (sharp) to 2:30PM.
 
 Special Features: Baron and Marijean (and anyonhe else who wants) will compete with a pie off. We need you to judge. VividCortex will provide free coffee!
 
