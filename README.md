@@ -5,7 +5,7 @@ What: An impromptu mid-workday meeting session for nerds and other startups in C
 
 Who: Hosted by VividCortex
 
-Next Event: Thursday, January 10th, 2012 from 2:30PM (sharp) to 3:30PM.
+Next Event: Thursday, January 17th, 2012 from 2:30PM (sharp) to 3:30PM, followed by a matinee movie!!!
 
 Special Features: TBD
 
