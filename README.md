@@ -3,16 +3,16 @@ Charlottesville Ninjas
 
 What: An impromptu mid-workday meeting session for nerds and other startups in Charlottesville, VA 
 
-Who: Hosted by VividCortex
+Who: Hosted by VividCortex and you.
 
-Next Event: Thursday, January 17th, 2012 from 2:30PM (sharp) to 3:30PM, followed by a matinee movie!!!
+Next Event: Thursday, February 28th, 2013 from 5PM to 7PM. 
 
-Special Features: TBD
+Special Features: TBD, suggestions welcome.
 
 Who is invited? Anyone in startups, technology, nerds. 
 
-Rules: Only last 1 hour. Service providers must bring a pie.
+Rules: Only lasts 2 hours. VividCortex will supply some Pizza at 5PM.
 
-Where: VividCortex Offices on the downtown mall (if you need help finding us, RSVP) and we'll send you the address. 
+Where: Champion Brewery. see: http://www.facebook.com/ChampionBrewingCompany/info
 
 RSVP form link: https://docs.google.com/a/vividcortex.com/spreadsheet/viewform?formkey=dEljSGJhVzBEdVVhSnBtNTRqV3Z0b0E6MQ#gid=0
