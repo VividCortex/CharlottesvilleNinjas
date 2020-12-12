@@ -5,7 +5,9 @@
     "projectToken" : ""
   },
   "checkRunSettings": {
-    "vulnerableCheckRunConclusionLevel": "failure"
+    "displayMode" : "diff",
+    "licenseCheckRunConclusionLevel": "success",
+    "vulnerableCheckRunConclusionLevel": "success"
   },
   "issueSettings": {
     "minSeverityLevel": "LOW"
